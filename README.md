@@ -16,8 +16,7 @@ Windows 下的 SteamCMD 图形界面工具，基于 ConPTY (pywinpty) 实现终�
 ## 使用
 
 1. 将 `steamcmd_gui.py` 放到 `steamcmd.exe` 同目录
-2. 双击 `SteamCMD_GUI.bat` 或运行 `pythonw steamcmd_gui.py`
-3. 缺 `pywinpty` 时会自动安装
+2. 运行 `pythonw steamcmd_gui.py`
 
 ## 依赖
 
